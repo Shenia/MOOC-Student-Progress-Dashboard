@@ -5,6 +5,8 @@ Project Title: Progress Dashboard for edX MOOC Students - A Proof of Concept (De
 Supervisor: Sanam Shirazi
 Student: Yan Shao (Shenia) Tung
 Date: August 27, 2019
+
+For details of this project, please see Final Documentation.pdf
 *************************************************************************************************************
 For use with existing xls files, the programs requires the following software:
 Python 3
