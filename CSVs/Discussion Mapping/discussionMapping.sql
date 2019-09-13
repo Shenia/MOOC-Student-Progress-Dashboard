@@ -1,0 +1,1 @@
+SELECT course_id, slug_id, title FROM forum_posts
